@@ -46,11 +46,5 @@ You need Python 3.x installed on your system.
     python main_app.py
     ```
 
-## 🖼️ Screenshots
-
-| Main Quiz Window (Light Theme) | Card Manager (CRUD) Window |
-| :---: | :---: |
-|  |  |
-
 ---
 **Completed as part of the Code Alpha Virtual Internship Program.**
